@@ -1,9 +1,21 @@
+html, body {
+    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.1em;
+}
 .jumbotron{
-    margin-top: 20px;
-    background-image: url("Images/assets/backgrounds/h_img.jpg");
-    text-align: center
+    
+    text-align: center;
+    min-height: 300px !important;
+    
+    
+    
     
 }
+
+        
+
 
 .aboutUs{
     text-align: center;
@@ -11,7 +23,14 @@
 
 .images{
     text-align: center;
-    display: block;
-    
-  
+    display: block; 
 }
+
+.portfolio{
+    text-align: center;
+}
+.services{
+    background: url("Images/assets/backgrounds/h_img.jpg") no-repeat;
+}
+
+
