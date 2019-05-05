@@ -1,3 +1,6 @@
-.container{
+.jumbotron{
+    margin-top: 20px;
+    background-image: url("Images/assets/backgrounds/h_img.jpg");
     text-align: center
+    
 }
