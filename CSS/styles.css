@@ -61,5 +61,60 @@ html, body {
   .portfolio img{
     width:100%;
   }
+  .contact{
+    text-align: center;
+    background-image: url("https://i.ibb.co/r5T26xM/c-image.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: white;
+    margin-top: 4%;
+  }
+  .contact h3{
+    padding-top: 2%;
+  }
+    .footer{
+        display: flex;
+        justify-content: space-around;;
+        flex-wrap: wrap;
+        padding-left: 25%;
+        padding-right: 25%;
+        margin-top: 3%;
+      }
+      .footer img{
+        width: 10%;
+        height: 10%;
+        padding: 5px;
+        margin-bottom: 10px;
+      }
+      .form{
+        padding-top: 2%;
+        padding-bottom: 4%;
+      }
+      .form input{
+        background: transparent;
+        color: white;
+      }
+      .message{
+        width: 80vh;
+        height: 30vh;
+        margin-top: 2%;
+        background: transparent;
+        color: white;
+      }
+      ::placeholder{
+        color:white;
+      }
+      .design-showing{
+        display:none;
+        width: 20%;
+      }
+      .development-showing{
+        display: none;
+        width: 20%;
+      }
+      .product-showing{
+        display: none;
+        width: 20%;
+      }
 
 
