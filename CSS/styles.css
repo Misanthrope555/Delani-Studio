@@ -5,14 +5,20 @@ html, body {
     font-size: 1.1em;
 }
 .jumbotron{
-    
+    background-image: url("https://i.ibb.co/wWbzGsq/h-img.jpg");
     text-align: center;
-    min-height: 300px !important;
+    height: 100%;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
     
-    
-    
-    
+
+   
 }
+    
+    
+    
+    
 
         
 
@@ -32,5 +38,28 @@ html, body {
 .services{
     background: url("Images/assets/backgrounds/h_img.jpg") no-repeat;
 }
+
+#services {
+    background: url("https://i.ibb.co/pRV1bTg/s-image.jpg") no-repeat;
+    height: 100%;
+    text-align: center;
+}
+.row-phead{
+    text-align: center;
+}
+.portfolio{
+    margin-top: -2%;
+    padding: 0 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .portfolio div{
+    width: 23%;
+    margin-top:  40px;
+  }
+  .portfolio img{
+    width:100%;
+  }
 
 
