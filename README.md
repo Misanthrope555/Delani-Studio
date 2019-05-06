@@ -19,7 +19,7 @@ You can also email delani through the website and even check out their portfolio
 * click it and you will see the website
 ## Support and contact details
  incase you come across errors,feel free to reach me
-email :edkkaburu@gmail.com
+email :edkkaburu@gmail.com,edwin.kaburu@yahoo.com
 ### License
 *MIT licence*
 Copyright (c) 2019 **Edwin Kaburu**
