@@ -5,7 +5,7 @@ A Delani studio
 #### By **Edwin Kaburu**
 ## Description
 github repository :https://github.com/Misanthrope555/Delani-Studio
-gh-page :
+gh-page :https://misanthrope555.github.io/Delani-Studio/
 This webapp is designed to help a user check on delaini studios website
 You can also email delani through the website and even check out their portfolio and services
 ## Features
